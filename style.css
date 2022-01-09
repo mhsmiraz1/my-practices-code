@@ -1,0 +1,22 @@
+.box {
+    width: 150px;
+    height: 150px;
+    border: 1px solid green;
+}
+
+#box-1 {
+    background-color: orangered;
+}
+
+#box-2 {
+    background-color: rgb(48, 184, 104);
+}
+
+#box-3 {
+    background-color: rgb(79, 17, 150);
+    /* visibility: hidden; */
+}
+
+#box-4 {
+    background-color: rgb(15, 73, 128);
+}
